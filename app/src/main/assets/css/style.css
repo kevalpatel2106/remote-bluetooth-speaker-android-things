@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    color: #555;
+    background-color: #eee;
+    padding-right: 50px;
+    min-width: 900px;
+}
+.container {
+    margin: 10px;
+    border: 0px solid #555;
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+}
+.button {
+    background-color: #555555    /* Black */
+    border: none;
+    color: white;
+    padding: 6px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/* Blue */
+.buttonBlue {
+    background-color: #008CBA;
+}
+
+/* Red */
+.buttonRed {
+    background-color: #f44336;
+}
+
+/* Gray */
+.buttonGray {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+/* Green */
+.buttonGreen {
+    background-color: #4CAF50;
+    ;
+}
