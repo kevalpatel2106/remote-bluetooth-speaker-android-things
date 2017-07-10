@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RemoteBluetoothSpeaker.iml" filepath="$PROJECT_DIR$/RemoteBluetoothSpeaker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/remote-bluetooth-speaker-android-things.iml" filepath="$PROJECT_DIR$/.idea/remote-bluetooth-speaker-android-things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote-bluetooth-speaker-android-things.iml" filepath="$PROJECT_DIR$/remote-bluetooth-speaker-android-things.iml" />
     </modules>
   </component>
 </project>
